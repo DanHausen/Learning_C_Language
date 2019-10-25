@@ -4,7 +4,6 @@ int main()
 {
     //Teste
   float precoPorKM, dias, distancia, valorPassagem, valorComDesconto, valorComAcrescimo;
-  int teste;
 
   scanf("%f", &precoPorKM);
   scanf("%f", &dias);
